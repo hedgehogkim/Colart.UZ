@@ -1,0 +1,25 @@
+@font-face{
+    font-family: 'Actay-Regular';
+    src: url(../fonts/Actay-Regular.otf); 
+}
+
+@font-face{
+    font-family: 'Actay-Regular-Italic';
+    src: url(../fonts/Actay-RegularItalic.otf); 
+}
+@font-face{
+    font-family: 'ActayCondensed-Thin';
+    src: url(../fonts/ActayCondensed-Thin.otf); 
+}
+@font-face{
+    font-family: 'ActayCondensed-Thin-Italic';
+    src: url(../fonts/ActayCondensed-ThinItalic.otf); 
+}
+@font-face{
+    font-family: 'ActayWide-Bold';
+    src: url(../fonts/ActayWide-Bold.otf); 
+}
+@font-face{
+    font-family: 'ActayWide-Bold-Italic';
+    src: url(../fonts/ActayWide-BoldItalic.otf); 
+}
